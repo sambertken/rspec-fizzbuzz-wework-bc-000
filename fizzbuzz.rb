@@ -10,4 +10,10 @@ def fizzbuzz(int)
     
 end
 
-fizzbuzz(int)
+fizzbuzz(3)
+
+fizzbuzz(5)
+
+fizzbuzz(15)
+
+fizzbuzz(4)
