@@ -1,5 +1,5 @@
 def fizzbuzz(int)
-  if int % 3 == 0 && int % 5 == log10
+  if int % 3 == 0 && int % 5 == 0
 
 
 fizzbuzz(3)
