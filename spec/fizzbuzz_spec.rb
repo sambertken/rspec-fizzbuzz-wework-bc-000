@@ -1,5 +1,5 @@
 require_relative './spec_helper.rb'
-require-relative './fizzbuzz.rb'
+require-relative '../fizzbuzz.rb'
 
 
 describe "fizzbuzz" do
